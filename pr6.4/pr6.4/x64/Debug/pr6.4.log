@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Politeh\AP\LAB\pr6\pr6.4\IT\pr6.4\pr6.4\Source.cpp(73,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pr6.4.vcxproj -> D:\Politeh\AP\LAB\pr6\pr6.4\IT\pr6.4\x64\Debug\pr6.4.exe
